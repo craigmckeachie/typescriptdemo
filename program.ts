@@ -1,4 +1,3 @@
-function greeter(name) {
-    console.log("Hi " + name);
-  }
-  greeter("Ben");
+let first = "Craig";
+console.log(first);
+
